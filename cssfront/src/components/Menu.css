@@ -1,0 +1,28 @@
+.blackBg{
+	background-color: black !important;
+}
+
+.blackText{
+	color: black !important;
+	background-color: black !important;
+
+}
+.whiteText{
+	color: white !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white !important;
+}
+.scaled{
+	margin-left: 7%;
+}
+.login{
+	background-color: #3F3F3F;
+}
+.staff{
+	background-color: #646464;
+}
+.navbar{
+	padding: 0px  !important;
+}

@@ -1,0 +1,36 @@
+[ 
+		{ 	"id" : "1",
+			"name" : "footbal" , 
+			"type" : "menu" , 
+			"content" : 
+				[
+					{ 	"id" : "2",
+						"name" : "Jeunes" , 
+						"type" : "final" , 
+					},
+					{ 	
+						"id" : "3",
+						"name" : "Senior" , 
+						"type" : "menu" , 
+						"content" : 
+							[
+								{ 	
+									"id" : "4",
+									"name" : "mwabna" , 
+									"type" : "final" 
+								},
+								{
+									"id" : "5",
+								 	"name" : "mchMwabna" , 
+									"type" : "final" 	 
+								}	
+							]  
+					}					
+				]  
+		},
+		{
+			"id" : "5",
+			"name": "Nik",
+			"type": "final"
+		}
+]

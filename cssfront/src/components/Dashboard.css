@@ -1,0 +1,37 @@
+
+.dashmenu {
+  width:100% !important;
+  background-color:rgb(0,0,0) !important;
+  color :white !important;
+  border:none !important;
+}
+
+.dashmenuselected {
+  width:100% !important;
+  background-color:white !important;
+  color :black !important;
+  border:none !important;
+}
+.colp{
+	color:rgb(0,0,0);
+	background-color:#d9d9d9;
+}
+.allpage{
+	height:100%;
+}
+
+.containers{
+
+	display: block;
+	width: 100% !important;
+	height:100vh !important;
+	margin-left: 0;
+}
+
+.dashmenu a {
+	color:white!important;
+}
+
+.dashmenuselected a {
+	color:black!important;
+}
